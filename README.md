@@ -1,3 +1,7 @@
+# Pre-Entrega 2 
+Por medio de un input se ingresa el texto de la nota, y se genera por IA, Sugerencias de Titulos e Imagen.
+
+# Proyecto Final
 # Generación Automática de Notas Periodísticas con OpenAI
 ### Introducción
 En la era digital, la producción de contenido informativo se ha transformado significativamente. La inteligencia artificial (IA) está revolucionando la manera en que se generan y distribuyen las noticias. Este documento explora la posibilidad de utilizar modelos de lenguaje de OpenAI para crear notas periodísticas completas, que incluyan un título, una bajada (subtítulo), un cuerpo de texto y una imagen. Analizaremos el proceso de investigación, la viabilidad de esta práctica y las implicaciones éticas y prácticas asociadas.
